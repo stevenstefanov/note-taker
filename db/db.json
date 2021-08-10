@@ -1,1 +1,17 @@
-[{"title":"Grocery list","text":"Please remember to buy veggies for us.","id":"be01888f-2649-4281-891f-832655ff50e1"},{"title":"Adding milk","text":"As well","id":"2055f990-9401-4532-9e10-289fcc82fc23"},{"title":"Testing","text":"Hello","id":"e03252c7-85eb-46bc-975b-3df7966989a2"}]
+[
+    {
+        "title": "Grocery list",
+        "text": "Please remember to buy veggies for us.",
+        "id": "be01888f-2649-4281-891f-832655ff50e1"
+    },
+    {
+        "title": "Adding milk",
+        "text": "As well",
+        "id": "2055f990-9401-4532-9e10-289fcc82fc23"
+    },
+    {
+        "title": "Testing",
+        "text": "Hello",
+        "id":"e03252c7-85eb-46bc-975b-3df7966989a2"
+    }
+]
